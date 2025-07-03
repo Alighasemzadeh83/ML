@@ -1,5 +1,5 @@
 # Machine Learning
-  This repository contains projects, implementations, and experiments from our Machine Learning coursework and competitions.
+  This repository contains projects, implementations, and experiments from our Machine Learning coursework and competitions taught by Dr. Ali Sharifi Zarchi.
 
 # Topics & Work
   ## Classic Machine Learning
