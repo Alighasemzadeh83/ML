@@ -2,7 +2,7 @@
   This repository contains projects, implementations, and experiments from our Machine Learning coursework and competitions taught by Dr. Ali Sharifi Zarchi.
 
 # Topics & Work
-  ## Classic Machine Learning
+  # Classic Machine Learning
     PCA (Principal Component Analysis)
     KNN (K-Nearest Neighbors)
     Various optimizers: SGD, Adam, RMSProp, etc.
