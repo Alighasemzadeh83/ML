@@ -20,8 +20,8 @@
 
 # ML Contest
   Participated in a university-wide ML contest featuring three questions across:
-  Classical ML
-  Computer Vision
+  Classical ML,
+  Computer Vision,
   NLP
 
 Our team ranked 4th place among all participating teams.
